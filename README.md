@@ -24,6 +24,6 @@ print(s)
 
 ```js
 var s = "Javascript highlighted"
-print (s)
+alert (s)
 ```
 
